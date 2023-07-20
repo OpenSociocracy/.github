@@ -18,10 +18,3 @@ There are two parts to the project, a static handbook, and a web app. The hanboo
 
 [Website](https://handbook.opensociocracy.org/)
 
-
-### Web App
-
-[GitHub Repo](https://github.com/OpenSociocracy/opensociocracy-platform)
-
-[Website](https://logbook.opensociocracy.org/)
-
